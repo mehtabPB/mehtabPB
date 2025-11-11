@@ -63,14 +63,6 @@ An Analytics role where I can leverage my expertise in Python, SQL, and Spark to
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=mehtabPB&theme=vue-dark&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabPB&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehtabPB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
