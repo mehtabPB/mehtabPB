@@ -49,7 +49,7 @@ An Analytics role where I can leverage my expertise in Python, SQL, and Spark to
 ****💡 “Turning Data into Decisions. One Insight at a Time.”****
 
 
-## 🌐 Socials:
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtab-alam-dhn/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehtabalam9155@gmail.com)
@@ -62,10 +62,14 @@ An Analytics role where I can leverage my expertise in Python, SQL, and Spark to
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mehtabPB&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mehtabPB&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabPB&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=mehtabPB&theme=vue-dark&hide_border=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehtabPB&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mehtabPB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
